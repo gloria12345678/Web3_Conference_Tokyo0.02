@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low+ Poly+ Earth+V2
+* source:	https://sketchfab.com/3d-models/low-poly-earthv2-bd9bcf6ab77f4a39828badcde3705bc5
+* author:	Sophi1992 (https://sketchfab.com/Sophi1992)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low+ Poly+ Earth+V2" (https://sketchfab.com/3d-models/low-poly-earthv2-bd9bcf6ab77f4a39828badcde3705bc5) by Sophi1992 (https://sketchfab.com/Sophi1992) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
