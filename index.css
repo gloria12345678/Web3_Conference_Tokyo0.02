@@ -550,8 +550,9 @@
     color: #fff;
     font-size: 23px;
     text-align: center;
-    line-height: 51px;
+    line-height: 70px;
     border-radius:0px 0px 8px 8px;
+    font-weight: 900;
 }
 @media screen and (max-width:1080px) {
     .date{
@@ -623,7 +624,7 @@
     height: 155px;
 }
 .community_name {
-    font-size: 17px;
+    font-size: 19px;
 }
 }
 @media screen and (max-width:650px) {
