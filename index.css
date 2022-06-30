@@ -292,8 +292,7 @@
 }
 .title{
     font-size: 13px;
-    min-height: 50px;
-    margin-bottom: 20px;
+    min-height: 25px;
 }
 .gustname{
     width: 100%;
@@ -450,6 +449,7 @@
     font-size: 12px;
     margin-top: 5px;
     color: #a5c1f2;
+   
 }
 .footing{
     background-color: #120F32;
@@ -550,9 +550,11 @@
     color: #fff;
     font-size: 23px;
     text-align: center;
-    line-height: 70px;
     border-radius:0px 0px 8px 8px;
     font-weight: 900;
+}
+.community_name div{
+    margin-top: 10px;
 }
 @media screen and (max-width:1080px) {
     .date{
@@ -601,7 +603,7 @@
     }
     .date{
         width: 100%;
-        margin: 11px 10px 55px 35px;
+        margin: 11px 10px 15px 35px;
     }
     .title{
         font-size: 10px;
@@ -624,7 +626,7 @@
     height: 155px;
 }
 .community_name {
-    font-size: 19px;
+    font-size: 17px;
 }
 }
 @media screen and (max-width:650px) {
@@ -699,7 +701,7 @@
 }
     .titer1{
         /* width: 100%; */
-        font-size: 13px;
+        font-size: 14px;
     }
     .title {
         min-height: 0px;
@@ -771,13 +773,4 @@
     height: 24vh;
     margin-bottom: 30px;
 }
-}
-@media screen and (orientation:landscape) {
-    .tips{
-        display:block;
-    }
-    /*  内容就隐藏  */
-    .container{
-    /* width: 550px; */
-    }
 }
